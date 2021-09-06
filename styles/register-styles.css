@@ -1,0 +1,18 @@
+.header-section {
+  text-align: center;
+  padding: 15px;
+}
+
+#basicLogoAndNav h1 {
+  color: white;
+  margin: 0 auto;
+}
+
+.navbar-brand {
+  text-align: center;
+}
+
+.register-text {
+  text-align: center;
+  padding: 10px;
+}

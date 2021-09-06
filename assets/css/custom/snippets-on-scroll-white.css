@@ -1,0 +1,6 @@
+@charset "utf-8";
+.navbar-nav-item:hover #homeMegaMenu, .navbar-nav-item:hover #pagesMegaMenu, .navbar-nav-item:hover #blogMegaMenu,
+.navbar-nav-item:hover #shopMegaMenu, .navbar-nav-item:hover #demosMegaMenu, .navbar-nav-item:hover #docsMegaMenu,
+.navbar-nav-item:hover #myCoursesMegaMenu, .navbar-nav-item:hover #coursesMegaMenu, .navbar-nav-item:hover #mainDemoMenu{
+     color: #002b49;
+}
